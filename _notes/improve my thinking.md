@@ -1,3 +1,4 @@
---- title: improve my thinking ---
-
+---
+title: improve my thinking
+---
 hahaha improve my thinking hahaha
